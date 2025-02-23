@@ -80,8 +80,8 @@ img {
 .enlarged {
     z-index: 100;
     position: fixed;
-    max-width: 90vw;
-    max-height: 90vh;
+    max-width: 90dvw;
+    max-height: 90dvh;
     width: auto;
     height: auto;
     top: 50%;
@@ -99,7 +99,7 @@ label.enlarged {
     position: fixed;
     font-size: 1.2em;
     color: white;
-    top: 97vh;
+    top: 97dvh;
     text-decoration: underline;
     text-shadow: 3px 3px 10px black;
 }
